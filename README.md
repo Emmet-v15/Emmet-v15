@@ -9,7 +9,7 @@ Selected projects. Most of the code is private and available on request.
 - **star**: WebRTC voice and video calling on the web, Windows and Android.
 - **Kernel**: a community-management platform for Discord servers, now in a staging pilot.
 - **one-armed-cake**: a Raspberry Pi router with CAKE traffic shaping. On a slow DSL line under load, median latency fell from 165 ms to 18 ms.
-- **My own Linux server**, which hosts 34 sites.
+- **My own Linux server**, which hosts over 25 sites.
 
 I design, test and verify; much of the implementation is AI-assisted.
 
